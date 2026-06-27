@@ -330,7 +330,7 @@ Important log files observed:
 
 Additional log files:
 
-![Additional Log Files](images/14-var-log-directory-part2.jpg)
+![Additional Log Files](images/13-var-log-directory-part2.jpg)
 
 ---
 
