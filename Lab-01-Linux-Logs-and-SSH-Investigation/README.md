@@ -211,7 +211,7 @@ The installation failed because the command syntax was incorrect. The `-y` optio
 
 This highlights the importance of proper command syntax when administering Linux systems.
 
-![OpenSSH Installation Error](images/08-ssh-service-inactive.jpg)
+![OpenSSH Installation Error](images/07-openssh-installation.jpg)
 
 ---
 
