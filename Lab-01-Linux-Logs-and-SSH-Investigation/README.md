@@ -1,18 +1,21 @@
-# Lab 01 - Linux Logs and SSH Investigation
+# Lab Walkthrough
 
-## Status
+---
 
-🚧 Work in Progress
+## Step 1 - Verify Ubuntu Network Configuration
 
-This lab documents my first SOC Home Lab exercise.
+### Command
 
-### Objectives
+```bash
+ip addr
+```
 
-- Configure Ubuntu and Kali Linux virtual machines
-- Verify network connectivity
-- Explore Linux system logs
-- Install and configure the OpenSSH server
-- Simulate an SSH authentication attack
-- Investigate failed login attempts using Linux logs
+### Observation
 
-The complete walkthrough, screenshots, commands, and analysis will be added soon.
+The Ubuntu virtual machine was assigned the IP address **192.168.159.130** on the VMware NAT network.
+
+### Purpose
+
+To verify that the Ubuntu machine is connected to the network before beginning the investigation.
+
+![Ubuntu IP](images/01-ubuntu-ip.jpg)
