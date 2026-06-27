@@ -326,7 +326,7 @@ Important log files observed:
 - dpkg.log
 - journal/
 
-![Linux Log Directory](images/13-var-log-directory.jpg)
+![Linux Log Directory](images/16-var-log-directory.jpg)
 
 Additional log files:
 
