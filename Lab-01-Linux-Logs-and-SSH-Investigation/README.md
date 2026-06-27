@@ -362,7 +362,7 @@ sudo tail -20 /var/log/auth.log
 
 This highlighted the importance of command syntax during Linux administration.
 
-![Tail Command Error](images/15-tail-command-error.jpg)
+![Tail Command Error](images/14-tail-command-error.jpg)
 
 ---
 
