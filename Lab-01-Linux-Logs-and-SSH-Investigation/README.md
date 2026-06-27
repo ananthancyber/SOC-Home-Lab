@@ -231,7 +231,6 @@ Result
 
 The package was installed successfully, enabling the Ubuntu machine to provide secure remote SSH access.
 
-![OpenSSH Installation Success](images/07-openssh-installation-success.jpg)
 
 ---
 
