@@ -389,7 +389,7 @@ The output included:
 - Hardware detection
 - Service startup messages
 
-![System Journal](images/16-journalctl-system-logs.jpg)
+![System Journal](images/15-journalctl-system-logs.jpg)
 
 ---
 
