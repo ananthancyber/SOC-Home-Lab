@@ -25,7 +25,7 @@ The lab environment is built using VMware Workstation with Ubuntu and Kali Linux
 
 | Lab                                         | Status    |
 | ------------------------------------------- | --------- |
-| ✅ Lab 01 – Linux Logs and SSH Investigation | Completed |
+| [✅ Lab 01 – Linux Logs and SSH Investigation](https://github.com/ananthancyber/SOC-Home-Lab/tree/main/Lab-01-Linux-Logs-and-SSH-Investigation) | Completed |
 
 ---
 
